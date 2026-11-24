@@ -1,0 +1,1 @@
+{"description":"Out of Office: The Overworked AI's Auto-Reply — golden-condor-22 entry for make.fun (one-line auto-reply, max 159 chars)","license":"MIT","main":"main.ts","name":"out-of-office-overworked-ai-gc22","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
